@@ -1,0 +1,6 @@
+{
+  "name": "Dastkari Sindh",
+  "description": "Authentic handcrafted Sindhi heritage textiles, naturally dyed Ajrak, hand-appliqué Rilli quilts, and artisan bios from Bhit Shah, Hala, and Matiari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
